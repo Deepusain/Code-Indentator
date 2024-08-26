@@ -1,1 +1,2 @@
 # Code-Indentator
+Code Indentator is a web application that automatically indents code of any programming language that you paste into it. It helps to format and prettify poorly indented code snippets for better readability and maintainability. This program is a cutting-edge project that brings together the power of HTML, JavaScript, ReactJS, and APIs to revolutionize code formatting and readability. We can aim to streamline the process offormatting code snippets, making them more readable, and enhancing developer productivity with code indentator.
